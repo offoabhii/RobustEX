@@ -1,1 +1,10 @@
+torch
+torchvision
+matplotlib
+numpy
+pytorch-grad-cam
+torchattacks
+lime
+shap
 
+THESE ARE THE LIBRARIES THAT ARE NEEDED TO PERFORM THE INVESTIGATION OF ADVERSIAL ATTACKS ON PREDICTION OF THE NEURAL NETWORK
