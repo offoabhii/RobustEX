@@ -40,11 +40,11 @@ This project developed a **robust framework** to evaluate and improve the **resi
 ---
 
 ## 6. Repository Structure
-│── data/ # Sample adversarial datasets
-│── notebooks/ # Experiments & analysis
-│── src/ # Core implementation
-│── results/ # Evaluation outputs
-│── README.md # This file
+│── data/ # Sample adversarial datasets.
+│── notebooks/ # Experiments & analysis.
+│── src/ # Core implementation.
+│── results/ # Evaluation outputs.
+│── README.md # This file.
 
 ---
 
